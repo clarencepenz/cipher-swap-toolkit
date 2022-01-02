@@ -146,7 +146,7 @@ const Menu: React.FC<NavProps> = ({
               {!isMobile && <MenuItems items={links} activeItem={activeItem} activeSubItem={activeSubItem} ml="24px" />}
             </Flex>
             <Flex alignItems="center" height="100%">
-              <h2 style={{color: '#fff'}}>Token Name</h2>
+              <h2 style={{color: '#fff'}}>Yarloo</h2>
             </Flex>
             <Flex alignItems="center" height="100%">
               {/* {!isMobile && (
